@@ -38,6 +38,7 @@ Você pode visualizar o layout do projeto atréves [DESSE LINK](). É necessári
 
 ## ➕ Adicionais
 Para praticar os conceitos ensinados, criei uma página que é acessada clicando no país escolhido (Brasil), nela é mostrada todos os jogos da seleção específica.
+---
 ![brazil_games](https://user-images.githubusercontent.com/102264203/200135911-fb93aaf5-ae3d-40a6-8c50-d6a1dc158e73.png)
 
 ---
