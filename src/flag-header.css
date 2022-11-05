@@ -1,0 +1,9 @@
+header img {
+  width: 150px;
+  border-radius: 6px;
+  transition: transform 0.3s;
+}
+
+header img:hover {
+  transform: scale(1.1);
+}
