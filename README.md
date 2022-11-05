@@ -11,9 +11,8 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#-adicionais">Adicionais</a>
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+![Capa](https://user-images.githubusercontent.com/102264203/200135902-dfb15354-a1c7-41e3-85a2-0c716d650557.jpg)
+
 
 <br>
 
@@ -46,9 +45,7 @@ Você pode visualizar o layout do projeto atréves [DESSE LINK](). É necessári
 
 ## ➕ Adicionais
 Para praticar os conceitos ensinados, criei uma página que é acessada clicando no país escolhido (Brasil), nela é mostrada todos os jogos da seleção específica.
-<p align="center">
-  <img alt="brazil-games" src=".github/brazil_games.png" width="40%">
-</p>
+![brazil_games](https://user-images.githubusercontent.com/102264203/200135911-fb93aaf5-ae3d-40a6-8c50-d6a1dc158e73.png)
 
 ---
 
