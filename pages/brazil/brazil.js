@@ -1,9 +1,9 @@
 function newGame(adversary, date) {
   return `
   <li>
-    <img src="../../../assets/icons/icon-brazil.svg">
+    <img src="../../assets/icons/icon-brazil.svg">
     <strong>${date}</strong>
-    <img src="../../../assets/icons/icon-${adversary}.svg">
+    <img src="../../assets/icons/icon-${adversary}.svg">
   </li>
   `
 }
