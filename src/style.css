@@ -76,6 +76,8 @@ header {
 .card {
   text-align: center;
 
+  width: 316px;
+
   padding-top: 32px;
   padding-bottom: 32px;
   padding-left: 23px;
@@ -179,8 +181,9 @@ header {
 /* ------ MEDIAS (responsive)------ */
 
 @media (min-width: 700px) {
+  
   #cards {
-    max-width: 670; /*for just 2 card stay in a row */
+    max-width: 670px; /*for just 2 card stay in a row */
     flex-direction: row;
     flex-wrap: wrap;
   }
